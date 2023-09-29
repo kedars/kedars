@@ -1,6 +1,6 @@
 ### Hi 👋, this is Kedar!
 
-I have been working on embedded systems/connected devices. I lead Application Frameworks initiatives at Espressif, working on [ESP-Jumpstart](https://github.com/espressif/esp-jumpstart), [ESP-RainMaker](https://github.com/espressif/esp-rainmaker), [HomeKit](https://github.com/espressif/esp-apple-homekit-adk), [Alexa](https://github.com/espressif/esp-va-sdk), and many other exciting projects.
+I have been working on embedded systems/connected devices. I lead Application Frameworks initiatives at Espressif, working on [Matter](https://github.com/espressif/esp-matter), [ESP-ZeroCode](https://zerocode.espressif.com), [ESP-Jumpstart](https://github.com/espressif/esp-jumpstart), [ESP-RainMaker](https://github.com/espressif/esp-rainmaker), [HomeKit](https://github.com/espressif/esp-homekit-sdk), [Alexa](https://github.com/espressif/esp-va-sdk), and many other exciting projects.
 
 - _Be proud of your team, passionate about your products, deliver delight_
 - 📫 Director of Engg at Espressif
